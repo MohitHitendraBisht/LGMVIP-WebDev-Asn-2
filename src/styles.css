@@ -1,0 +1,100 @@
+/* li{
+    color:blue;
+} */
+body{
+    background-color:  #fdf498;
+    border-radius: 10px;
+    font-family: "Raleway", sans-serif;
+}
+
+.navbar{
+    background-color: #ffffff !important;
+}
+
+h2{
+    text-align:center;
+    margin: 20px 0;
+}
+
+.textLeft{
+    text-align: center;
+    /* margin-left: ; */
+}
+
+.card{
+    width:450px;
+    border:none;
+    border-radius:10px;
+    background-color: #7bc043 ;
+    margin: auto;
+}
+
+.image{
+    min-width: 155px;
+    margin-right: 20px;
+}
+
+.stats{
+    background: #f2f5f8;
+    color: #000;
+}
+
+.articles{
+    font-size: 10px;
+    color:#a1aab9;
+}
+
+.number1{
+    font-weight:500;
+}
+
+.followers{
+    font-size: 10px;
+    color: #a1aab9;
+}
+
+.number2{
+    font-weight: 500;
+}
+
+.rating{
+    font-size: 10px;
+    color: #a1aab9;
+}
+
+.number3{
+    font-weight: 500;
+}
+/* .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  } */
+  .design{
+      color:black;
+      /* background-color:black; */
+  }
+  button{margin-right:45%;
+    background-color: #FF6F61  !important;
+    border:none !important;
+    color: #ffffff !important;
+}
+  .myimg{
+      margin-right: 20%;
+  }
+  .card-title{
+      color: #ffffff;
+  }
+  /* .myloader{
+      visibility: hidden;
+  } */
+.loader{
+    /* color: red; */
+    margin-top: 15%;
+    margin-left: 48%;
+    width: 200px;
+    /* transition-delay: 2s; */
+    /* animation-delay: 100ms; */
+}
